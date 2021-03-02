@@ -9,6 +9,7 @@
 <title>KeepNote</title>
 </head>
 <body>
+	<h2>Welcome to Keep Notes</h2>
 	<!-- Create a form which will have text boxes for Note ID, title, content and status along with a Send 
 		 button. Handle errors like empty fields -->
 
